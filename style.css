@@ -165,7 +165,7 @@ body, html {
 .slider-content {
   position: relative;
   max-width: 112rem;
-  min-width: 4px;
+  min-width: 450px;
   background: #fff;
   margin: 0 auto;
   overflow: hidden;
